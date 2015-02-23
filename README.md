@@ -12,4 +12,6 @@ List of functions (some) shaders can perfom:
  - RGB + YUV Texturing (PoT)
  - Lighting (Spot, Directional, Point)
 
+ *drafts.zip* contains shaders with limited functionality
+ 
 **NOTE:** This repository is **NOT** maintained, it serves as a backup, for the most recent shaders, you should refer to the [GPAC](https://github.com/gpac/gpac) repo.
