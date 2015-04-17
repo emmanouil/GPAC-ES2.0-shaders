@@ -11,8 +11,8 @@ List of functions (some) shaders can perfom:
  - RGB + YUV Texturing (NPot)
  - RGB + YUV Texturing (PoT)
  - Lighting (Spot, Directional, Point)
- - Fog
  - Colour-keying
+ - Fog
  
 
  *drafts.zip* contains shaders with limited functionality
