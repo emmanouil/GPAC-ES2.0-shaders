@@ -8,10 +8,13 @@ shader bucket of beta shaders for GPAC
 List of functions (some) shaders can perfom:
 
  - Clipping
- - RGB + YUV Texturing
+ - RGB + YUV Texturing (NPot)
  - RGB + YUV Texturing (PoT)
  - Lighting (Spot, Directional, Point)
+ - Fog
+ - Colour-keying
+ 
 
  *drafts.zip* contains shaders with limited functionality
  
-**NOTE:** This repository is **NOT** maintained, it serves as a backup, for the most recent shaders, you should refer to the [GPAC](https://github.com/gpac/gpac) repo.
+**NOTE:** This repository is **NOT** maintained, it serves as a backup; for the most recent shaders, you should refer to the [GPAC](https://github.com/gpac/gpac) repo.
